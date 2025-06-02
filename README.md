@@ -84,3 +84,4 @@ You can deploy frontend into vercel or netlify also. Thanks
 
 `Build with 💛 by Hasan`
 "# e-commerce1" 
+"# e-commerce2" 
